@@ -1,0 +1,1 @@
+This is not here because 11.3.2 does not allow passing sessions between subtasks.  11.3.3 would allow a bot that opens spreadsheets.

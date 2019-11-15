@@ -1,0 +1,33 @@
+  
+Disclaimer: I am fully aware that you can link charts/graphs to PowerPoint.  
+Disclaimer_2: I am a business analyst, not an IT guy
+
+How to Configure SlideBot:
+
+SlideBot does the job with a little help.  <<<<<>>>>> in the comments indicates areas where you must input something such as a height, vertical position, one or more [Page Down] keystrokes, etc.
+To add a new slide:
+1) Copy template & paste to new taskbot
+
+2) Address all <<<<<>>>>> call outs
+
+3) If fetching an image instead of a range of cells, delete lines 28-31 in the SlideBot and replace with object cloning or mouse-clicks.  Once copied, change line 36 to "Paste_Image.atmx" bot instead
+of "Paste_Cell_Range.atmx"
+
+4) Follow the comments and it should only take a minute or two to configure a new slide_bot.
+
+
+Areas I Struggled With:
+1) Navigating  through PPT Slides, this must be done using keystrokes ([Page Down]).  A 'Go To Slide' command would be ideal.
+
+2) Navigating Excel Spreadsheet tabs without having to 'Re-open' the spreadsheet document and assign a new session every time.  Being able to open a spreadsheet once at the beginning of the bot and 
+somehow automatically establish a session for each tab would be ideal.
+
+3) Copying a range of cells.. I accomplish this with keystrokes, which can screw up sometimes.  I would like to input a range of cells (B4:H11) and be able to copy it in a similar way to VBA.  I would 
+have written a VBA script for each slide that fetches the range but it seemed silly to have 60+ vba scripts that are not re-usable. I know you can use system variable Column Number or something with 
+loops after 'Get Cells' but I was unsure how to paste this variable as an enhanced metafile in PPT.
+
+4) Being able to bulk edit delays in the workbench regardless of the type of command would be a great feature.
+
+5) I can see this program evolving towards behaving like the the macro recorder in Excel (except using best practices, instead of worst).
+
+6) I think I'm starting to like AAE
