@@ -12,7 +12,7 @@ To add additional slides:
       A) <input active sheet to establish session> - if using a new Excel sheet/tab, then you will have to change the sheet index or sheet name
       B) <page down to destination slide> - this is the only way I know how to navigate PPT slides
       C) <fetch chart/table> - use go to cell on a corner cell of desired chart/table, then use keystrokes to highlight/copy.  
-      D) height/width/vertical & horizontal location - these must be set for each chart/graph.
+      D) height/width/vertical & horizontal location - these must be set for each chart/graph.  If not unchecking the 'lock aspect ratio' button, then you will want to disable 'Input Height' or 'Input Width'.  
 
 3) If fetching an image instead of a range of cells, delete lines 28-31 in the SlideBot_Template and replace with object cloning or mouse-clicks to fetch the image.  Once copied, change line 36 to "Paste_Image.atmx" bot instead of "Paste_Cell_Range.atmx"
 
