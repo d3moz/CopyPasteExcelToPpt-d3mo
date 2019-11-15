@@ -25,6 +25,3 @@ loops after 'Get Cells' but I was unsure how to paste this variable as an enhanc
 
 4) Being able to bulk edit delays in the workbench regardless of the type of command would be a great feature.
 
-5) I can see this program evolving towards behaving like the the macro recorder in Excel (except using best practices, instead of worst).
-
-6) I think I'm starting to like AAE
