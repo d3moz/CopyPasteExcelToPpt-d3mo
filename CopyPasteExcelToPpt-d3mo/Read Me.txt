@@ -1,19 +1,16 @@
-  
-Disclaimer: I am fully aware that you can link charts/graphs to PowerPoint.  
-Disclaimer_2: I am a business analyst, not an IT guy
-
 How to Configure SlideBot:
 
-SlideBot does the job with a little help.  <<<<<>>>>> in the comments indicates areas where you must input something such as a height, vertical position, one or more [Page Down] keystrokes, etc.
-To add a new slide:
+SlideBot does the job with a little help.  
+
+To add additional slides:
+
 1) Copy template & paste to new taskbot
 
-2) Address all <<<<<>>>>> call outs
+2) Address all <<<<<>>>>> call outs.  <<<<<>>>>> in the comments indicates areas where you must input something such as a height, vertical position, one or more [Page Down] keystrokes, etc. 
 
-3) If fetching an image instead of a range of cells, delete lines 28-31 in the SlideBot and replace with object cloning or mouse-clicks.  Once copied, change line 36 to "Paste_Image.atmx" bot instead
-of "Paste_Cell_Range.atmx"
+3) If fetching an image instead of a range of cells, delete lines 28-31 in the SlideBot_Template and replace with object cloning or mouse-clicks to fetch the image.  Once copied, change line 36 to "Paste_Image.atmx" bot instead of "Paste_Cell_Range.atmx"
 
-4) Follow the comments and it should only take a minute or two to configure a new slide_bot.
+4) Follow the comments and it should only take a minute or two to configure a new slide_bot.. 
 
 
 Areas I Struggled With:
