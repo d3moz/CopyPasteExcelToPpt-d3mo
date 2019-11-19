@@ -44,7 +44,7 @@
   </Entity>
   <Entity Name="CleanDesktop.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:06</Property>
+      <Property Name="LastRunTime">11/19/2019 10:56:34</Property>
       <Property Name="RunDuration">00:00:01</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
@@ -58,50 +58,57 @@
   </Entity>
   <Entity Name="VariablizeCurrentBook.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:13</Property>
+      <Property Name="LastRunTime">11/19/2019 10:56:42</Property>
       <Property Name="RunDuration">00:00:06</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="Master.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:30</Property>
-      <Property Name="RunDuration">00:00:26</Property>
+      <Property Name="LastRunTime">11/19/2019 10:57:10</Property>
+      <Property Name="RunDuration">00:00:38</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="Close_Ppt_Document_Recovery.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:18</Property>
-      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="LastRunTime">11/19/2019 10:56:49</Property>
+      <Property Name="RunDuration">00:00:05</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="SlideBot_Template.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:29</Property>
-      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="LastRunTime">11/19/2019 10:57:09</Property>
+      <Property Name="RunDuration">00:00:18</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="Master_SlideBot.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:29</Property>
-      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="LastRunTime">11/19/2019 10:57:09</Property>
+      <Property Name="RunDuration">00:00:18</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="Paste_Cell_Range.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:23</Property>
+      <Property Name="LastRunTime">11/19/2019 10:56:54</Property>
       <Property Name="RunDuration">00:00:01</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="Select_Formatting.atmx">
     <Properties>
-      <Property Name="LastRunTime">11/14/2019 15:35:23</Property>
+      <Property Name="LastRunTime">11/15/2019 10:26:42</Property>
       <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Select_Formatting_Alt_Commands.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/19/2019 10:56:55</Property>
+      <Property Name="RunDuration">00:00:01</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
