@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Clear_Green_Arrows.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/11/2019 18:26:16</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clear_Green_Arrows_1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/11/2019 18:26:15</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clear_Green_Arrows_2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/11/2019 18:24:24</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clear_Green_Arrows_3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/11/2019 18:24:28</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clear_Green_Arrows_4.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/11/2019 18:24:32</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clear_Green_Arrows_5.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/11/2019 18:24:36</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="CleanDesktop.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:20</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Folder_Creation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/12/2019 13:59:56</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="VariablizeCurrentBook.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:27</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Master.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:47</Property>
+      <Property Name="RunDuration">00:00:28</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Close_Ppt_Document_Recovery.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:33</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SlideBot_Template.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:45</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Master_SlideBot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:46</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Paste_Cell_Range.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/19/2019 10:56:54</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Select_Formatting.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/15/2019 10:26:42</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Select_Formatting_Alt_Commands.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:41</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Paste.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:41</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Open_Ppt.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:35</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PositionExpansionButton.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:43</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="UncheckLockAspectRatio.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:43</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SetHeight.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:44</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SetWidth.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:44</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SetHorizontalPosition.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:45</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SetVerticalPosition.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 10:56:45</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
