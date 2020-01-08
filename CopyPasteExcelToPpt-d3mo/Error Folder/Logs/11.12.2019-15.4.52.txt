@@ -1,4 +1,0 @@
-﻿(11/12/2019 3:04:52 PM) Task name: Select_Formatting.atmx
-Error line number: 7
-Error Description: Unable to find 'PUSH BUTTON' control.
-*****************************************************
